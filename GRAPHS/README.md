@@ -3,11 +3,11 @@
 ## problems
 ### Is it a tree?
 - [problem](https://www.spoj.com/problems/PT07Y/)
-- [Solution](ANSWER/P181B_is_it_a_Tree.cpp)
+- [Solution](ANSWERS/P181B_is_it_a_Tree.cpp)
 
 ### Monk-Learning-Graph
 - [problem](https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/algorithm/monk-learning-graph-3/)
-- [Solution](ANSWER/P181A_learningGraph.cpp)
+- [Solution](ANSWERS/P181A_learningGraph.cpp)
 
 ### journey to the moon
 - [problem](https://www.hackerrank.com/challenges/journey-to-the-moon/problem)
