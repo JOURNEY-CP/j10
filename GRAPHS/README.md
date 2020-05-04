@@ -26,9 +26,9 @@
 - [Solution]()
 
 ### BUG LIFE
-- [PROBLEM](https://www.spoj.com/problems/BUGLIFE/)
+- [problem](https://www.spoj.com/problems/BUGLIFE/)
 - [Solution]()
 
 ### chef and friends
-- [chef and friends](https://www.codechef.com/problems/CHFNFRN)
+- [problem](https://www.codechef.com/problems/CHFNFRN)
 - [Solution]()
