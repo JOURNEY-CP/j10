@@ -11,11 +11,11 @@
 
 ### journey to the moon
 - [problem](https://www.hackerrank.com/challenges/journey-to-the-moon/problem)
-- [Solution]()
+- [Solution](ANSWERS/P182B_journey_to_moon.cpp)
 
 ### bfs-distance from root node
 - [problem](https://www.hackerrank.com/challenges/bfsshortreach/problem)
-- [Solution]()
+- [Solution](ANSWERS/P182A_bfs_shortestreach.cpp)
 
 ### FIRESC
 - [problem](https://www.codechef.com/problems/FIRESC/)
