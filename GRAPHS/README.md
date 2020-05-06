@@ -19,11 +19,11 @@
 
 ### FIRESC
 - [problem](https://www.codechef.com/problems/FIRESC/)
-- [Solution]()
+- [Solution](ANSWERS/P183A_FIRESC.cpp)
 
 ### longest path in a tree
 - [problem](https://www.spoj.com/problems/PT07Z/)
-- [Solution]()
+- [Solution](ANSWERS/P183B_longestpath_in_tree.cpp)
 
 ### BUG LIFE
 - [problem](https://www.spoj.com/problems/BUGLIFE/)
