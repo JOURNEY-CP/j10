@@ -27,7 +27,7 @@
 
 ### BUG LIFE
 - [problem](https://www.spoj.com/problems/BUGLIFE/)
-- [Solution]()
+- [Solution](ANSWERS/P184A_Buglife.cpp)
 
 ### chef and friends
 - [problem](https://www.codechef.com/problems/CHFNFRN)
