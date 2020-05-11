@@ -1,7 +1,7 @@
 # SEGMENT TREES
 
 ## problems
-### Hacker Earth tutorial
+### Hacker Earth tutorial problem
 - [problem](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/tutorial/)
 - [Solution]()
 
@@ -13,7 +13,7 @@
 - [problem](https://www.spoj.com/problems/BRCKTS/)
 - [Solution]()
 
-### Maxmimum sum
+### Maximum sum
 - [problem](https://www.spoj.com/problems/KGSS/)
 - [Solution]()
 
