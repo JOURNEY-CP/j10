@@ -4,3 +4,4 @@
 - [intro](INTRO)
 - [GRAPHS](GRAPHS)
 - [Segment_Trees](SEG_TREES)
+- [Bit Manupulation](Bit_manupulation)
